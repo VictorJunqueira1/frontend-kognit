@@ -33,7 +33,7 @@ export default function Notification() {
         <div className="flex items-center gap-4">
           {/* GitHub */}
           <a
-            href="https://github.com/"
+            href="https://github.com/VictorJunqueira1/frontend-kognit"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-700 hover:text-black transition"
