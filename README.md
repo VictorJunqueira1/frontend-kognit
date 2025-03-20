@@ -39,7 +39,7 @@ O desafio consistia em criar uma aplicação com as seguintes funcionalidades:
 
 O projeto foi implantado na **Vercel** e pode ser acessado através do seguinte link:  
 
-🔗 **[Acessar o projeto](https://seu-projeto.vercel.app/)**
+🔗 **[Acessar o projeto](https://frontend-kognit.vercel.app/)**
 
 ---
 
@@ -56,23 +56,23 @@ O projeto foi implantado na **Vercel** e pode ser acessado através do seguinte 
    ```sh
    git clone https://github.com/VictorJunqueira1/frontend-kognit.git
    cd frontend-kognit
-Instale as dependências
+2. Instale as dependências
 
-```
-npm install
-# ou
-yarn install
-```
-Execute o projeto
+   ```
+   npm install
+   # ou
+   yarn install
+   ```
+3. Execute o projeto
 
-```
-npm run dev
-# ou
-yarn dev
-```
-Acesse no navegador
+   ```
+   npm run dev
+   # ou
+   yarn dev
+   ```
+   Acesse no navegador
 
-http://localhost:3000
+   http://localhost:3000
 
 
 ### 🛠️ Melhorias Futuras
